@@ -1,0 +1,81 @@
+body{
+    background-color: white;
+    text-decoration: none;
+    
+    
+  
+}
+.container{
+    
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+}
+.menu {
+    
+    
+        background-color: white;
+        border: 1px solid black;
+        width: 74vw;
+        height: 95vh;
+       margin-left: 25%;
+       margin-top: -67vh;
+       border-radius: 3%;
+       text-decoration: none;
+        
+    
+  
+}
+.tex1{
+    margin-left: 3%;
+    font-size: 1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    
+} 
+   
+.prod1{
+    margin-top:25vh;
+    padding: 0;
+    margin-left: 3%;
+    font-size: 3vh;
+
+}
+.prod2{
+    margin-top: 5vh;
+    margin-left: 3%;
+    font-size: 3vh;
+    font-size: 3vh;
+
+
+}
+.prod3{
+    margin-top: 5vh;
+    margin-left: 3%;
+    font-size: 3vh;
+    font-size: 3vh;
+
+}
+.prod4{
+    margin-top: 5vh;
+    margin-left: 3%;
+    font-size: 3vh;
+
+}
+.prod5{
+    margin-top: 5vh;
+    margin-left: 3%;
+    font-size: 3vh;
+
+}
+
+.te1{
+    margin-left: 3%;
+    font-size: 1.2vw;
+}
+.imag1{
+    margin-left: 3%;
+}
+
